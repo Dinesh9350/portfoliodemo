@@ -309,7 +309,7 @@ img {
   padding-bottom: 0.5rem;
   transition: border-color 0.5s;
 }
-#main-nav a:hover {
+#main-nav li a:hover {
   border-color: #ccc;
 }
 #main-nav a.current {
